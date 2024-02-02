@@ -16,3 +16,5 @@ function mySecondFunction(msg) {
 function myThirdFunction(msg) {
     document.getElementById('demo').textContent = msg;
 }
+
+## use closure here
